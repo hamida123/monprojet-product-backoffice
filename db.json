@@ -1,0 +1,8 @@
+{"products" :
+[         
+          {"id":1,"code": "p100", "libelle": "cafe", "prixUnitaire": "500"},
+          {"id":2,"code": "p200", "libelle":"Th�", "prixUnitaire":"500"},
+          {"id":3,"code": "p300", "libelle":"Jus", "prixUnitaire":"800"},
+          {"id":4,"code": "p400", "libelle":"Coca-cola", "prixUnitaire":"1000"}
+]
+}
